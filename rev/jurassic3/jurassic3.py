@@ -2,11 +2,9 @@ import binascii
 
 def checkFlag(flag):
   flag = binascii.hexlify(flag.encode()).decode()
-  print(flag)
   result=""
   for char in flag:
     result += chr(ord(char) - 10)
-  print(result)
   
   return result == ",,,Y,',--X-*(Z-(,+-.+\,.,'-)+\,+-),),'-&,+,*-Z"
 
