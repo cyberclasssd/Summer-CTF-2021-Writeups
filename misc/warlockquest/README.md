@@ -1,4 +1,4 @@
-T# warlockquest1
+# warlockquest1
 ## Problem Statement
 This is an OSINT challenge! You are a warlock on a quest. You come across a riddling sphinx. "What's my favorite dino?" asks the sphinx.
 
