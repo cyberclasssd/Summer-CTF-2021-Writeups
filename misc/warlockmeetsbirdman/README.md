@@ -12,12 +12,12 @@ There was also a pastebin link: [pastebin.com/piEHyt6j](pastebin.com/piEHyt6j).
 
 Following the link, we find a password protected pastebin. How can we find the password?!
 
-Let's go back to our instagram profile. There doesn't seem to be any more useful info...but the flag of the previous challenge did pose us a question: "what type of bird am i?"
+Let's go back to our instagram profile. There doesn't seem to be any more useful info...but the flag of the previous challenge did pose to us a question: "what type of bird am i?"
 
 Maybe the profile picture could help us here. Let's use an online tool like [this](https://www.instadp.com/article/5/how-to-download-instagram-profile-picture-in-its-original-quality.html)
 to get the profile picture in its full sized glory. Then, we can try reverse image searching.
 
-According to Google, this bird is a harpy. Plugging this in as the password works! The pastebin contains the following:
+According to [Google reverse image search](https://www.google.com/imghp?hl=en), this bird is a harpy. Plugging "harpy" in as the pastebin password works! The pastebin contains the following:
 
 > 	Your bookish pet crow is mad! You must bring it a Pacific Rose as appeasement. Where could you find such a fruit? Maybe check out the list of cyberclass past workshops.
 
