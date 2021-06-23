@@ -19,11 +19,13 @@ H oahdk ax fixw ob agox oaxt nfo dbq ax rhkxi oaxt
 nxmgfix oaxc'ux wxgw. Gdcqgc, tc pglbuhox whdbigfu
 hi oax ioxyb-igfufi.
 
-Decrypt using an automatic substitution cipher solver such as [decode.fr](https://www.dcode.fr/monoalphabetic-substitution)
+Decrypt using an automatic substitution cipher solver such as [decode.fr](https://www.dcode.fr/monoalphabetic-substitution).
 > 	THERE ARE MANY FANTASTIC DINOSAURS WHO HAVE TRODDEN THIS EARTH. AMONG MT MOST WELL LIKED ARE THE SEISMOSAUR, THE JUDICERATOPS, AND THE HYPSIBEMA MISSOURIENSIS. DINOSAURS ARE LE COOLEST COOL. ESPECIALLY INFLATABSE DINOSAURS. ONCE, 400 MILLION YEARS AGO, I DRESSED UP IN AN INFLATABLE DINOSAUR COSTUME FOR ANUBIS'S BIRTHDAY PARTY. THE COSTUME WAS PINK. THE DINOSAUR IS PINK. DID YOU KNOW ANUBIS HATES PINK? ANUBIS HATES DINOSAURS TOO. ACTUALLY I THINK HE USED TO HATE THEM BUT NOW HE LIKES THEM BECAUSE THEY'RE DEAD. ANYWAY, MY FAVORITE DINOSAUR IS THE STEGO-SAURUS.
 
 Hmmm...the last word "stego-saurus" is written weirdly. Aha! We should try some steganography, aka stego! Use the online steganography decoder [pelock](
-https://www.pelock.com/products/steganography-online-codec) to find the hidden message in the image. What's this? We need a key? Try using "stego-saurus" as the key. We get:
+https://www.pelock.com/products/steganography-online-codec) to find the hidden message in the image.
+
+What's this? We need a key? Try using "stego-saurus" as the key. We get:
 > 	An aarakocra sends his aid! https://www.instagram.com/irrkqlukkirr/
 
 Oho, link to an Instagram profile! Let's follow it. Our flag for this part of the challenge can be found in the bio of this Instagram account.
