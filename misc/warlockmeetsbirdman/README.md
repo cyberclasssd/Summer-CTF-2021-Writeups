@@ -8,7 +8,7 @@ Hint: Yeah, there is.
 ## Solution
 
 This is the second part of the OSINT challenge. We can start right where we left off, on part 1. We were at [this](https://www.instagram.com/irrkqlukkirr/) instagram profile when we found the flag of part 1 in the instagram bio `flag{wh4t_typ3_of_b1rd_am_i?}`.
-There was also a pastebin link: pastebin.com/piEHyt6j.
+There was also a pastebin link: pastebin.com/piEHyt6j(pastebin.com/piEHyt6j).
 
 Following the link, we find a password protected pastebin. How can we find the password?!
 
@@ -30,9 +30,9 @@ It's not password protected this time.
 > 	7FsKpRgomIWvkxafLvkg/DDrB5cS2NyCmb9DN9mzMJc=
 Hint: All lowercase; include spaces.
 "With dust over chaos we both hurry down streets"
-- the narrator, whose friend's younger brother, E.B.W., holds your key. A.E.S is the effectuator.
+-the narrator, whose friend's younger brother, E.B.W., holds your key. A.E.S is the effectuator.
 
-kahsdfkh
+
 
 ## Flag
 `FLAG{CHICKEN_SALAD_4_LYFE}`
