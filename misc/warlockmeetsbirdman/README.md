@@ -8,7 +8,7 @@ Hint: Yeah, there is.
 ## Solution
 
 This is the second part of the OSINT challenge. We can start right where we left off, on part 1. We were at [this](https://www.instagram.com/irrkqlukkirr/) instagram profile when we found the flag of part 1 in the instagram bio `flag{wh4t_typ3_of_b1rd_am_i?}`.
-There was also a pastebin link: pastebin.com/piEHyt6j(pastebin.com/piEHyt6j).
+There was also a pastebin link: [pastebin.com/piEHyt6j](pastebin.com/piEHyt6j).
 
 Following the link, we find a password protected pastebin. How can we find the password?!
 
@@ -32,7 +32,12 @@ Hint: All lowercase; include spaces.
 "With dust over chaos we both hurry down streets"
 -the narrator, whose friend's younger brother, E.B.W., holds your key. A.E.S is the effectuator.
 
+What?? Well lets start by googling this quote. It turns out, the closest version of this phrase is from a book called *Legend* (very good book, 10/10 recommend). Meanwhile, the pastebin also mentions A.E.S., which looks like AES, a type of cipher that requires a key and possibly more info to decrypt, depending on version. The pastebin tells us that a specific person--perhaps their name--will be our key, so let's start googling again.
+
+We find that the narrator of this quote is a character named June Iparis, whose friend (Day Wing)'s little brother is Eden Bataar Wing. This fits the initials of E.B.W.! The hint tells us to use all lowercase, and include spaces. If we use "eden bataar wing" as the key to the cipher, and decrypt using an online [AES decryptor](https://www.devglan.com/online-tools/aes-encryption-decryption) with Key Size 128 bits to fit our 16 character key, and ECB mode, we get the final flag!
+
+Note: The linked AES decryptor will give output in Base64. Be sure to convert to plaintext to see the flag.
 
 
 ## Flag
-`FLAG{CHICKEN_SALAD_4_LYFE}`
+`flag{f4ntast1c_y0u_f1nish3d!}`
