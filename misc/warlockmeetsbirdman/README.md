@@ -32,7 +32,7 @@ Hint: All lowercase; include spaces.
 "With dust over chaos we both hurry down streets"
 -the narrator, whose friend's younger brother, E.B.W., holds your key. A.E.S is the effectuator.
 
-What?? Well lets start by googling this quote. It turns out, the closest version of this phrase is from a book called *Legend* (very good book, 10/10 recommend). Meanwhile, the pastebin also mentions A.E.S., which looks like AES, a type of cipher that requires a key and possibly more info to decrypt, depending on version. The pastebin tells us that a specific person will "hold" our key. Perhaps their name will be what we're looking for, so let's start googling again.
+What?? Well lets start by googling this quote. It turns out, the closest version of this phrase is from a book called *Legend* (very good book, 10/10 recommend). Meanwhile, the pastebin also mentions A.E.S., which looks like AES, a type of cipher that requires a key and possibly more info to decrypt, depending on mode. The pastebin tells us that a specific person will "hold" our key. Perhaps their name will be what we're looking for, so let's start googling again.
 
 We find that the narrator of this quote is a character named June Iparis, whose friend (Day Wing)'s little brother is Eden Bataar Wing. This fits the initials of E.B.W.! The hint tells us to use all lowercase, and include spaces. If we use "eden bataar wing" as the key to the cipher, and decrypt using an online [AES decryptor](https://www.devglan.com/online-tools/aes-encryption-decryption) with Key Size 128 bits to fit our 16 character key, and ECB mode, we get the final flag!
 
