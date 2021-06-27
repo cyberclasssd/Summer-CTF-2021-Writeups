@@ -1,3 +1,6 @@
+#CyberClass CTF, SQL Injection Challenge
+#Modified version of https://gist.github.com/hackeris/fa2bfd20e6bec08c8d5240efe87d4687
+
 import os
 import sqlite3
 
