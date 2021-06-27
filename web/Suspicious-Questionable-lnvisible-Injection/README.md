@@ -7,7 +7,7 @@ Inspect element, and remove the visibility hidden attribute from the form elemen
 
 ![image](https://user-images.githubusercontent.com/72477484/123558515-85aa9480-d74b-11eb-97a0-6cbafe60e830.png)
 
-Now we can see that there is a place to login, with two input boxes and a login button! However, we can't seem to input anything or use the button. To fix this, remove the disabled attribute from the login button and input boxes. (Again, clip the small gray arrow to expand down, double click to edit.)
+Now we can see that there is a place to login, with two input boxes and a login button! However, we can't seem to input anything or use the button. To fix this, remove the disabled attribute from the login button and input boxes. (Again, click the small gray arrow to expand down, then double click to edit.)
 
 ![image](https://user-images.githubusercontent.com/72477484/123558557-b8ed2380-d74b-11eb-9bda-77bb942950c4.png)
 
