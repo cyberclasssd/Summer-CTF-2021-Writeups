@@ -9,7 +9,7 @@ Hint: wrap your answer in the flag format: `flag{answer}`
 
 ## Solution
 
-Use a hash cracker to crack the hash (a simple online tool like [this](https://crackstation.net/) will work.
+Use a hash cracker to crack the hash (a simple online tool like [this](https://crackstation.net/) will work).
 
 ## Flag
 `flag{p0pcorn}`
