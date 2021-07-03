@@ -1,0 +1,17 @@
+# shortalligator
+## Problem Statement
+
+Hey, it's another really smart alligator! This one seems to be a runt though . . .
+
+```
+p = 83625243486278694472415908934747878517015029114727455464007997523526728908861
+q = 72586358108422808800129663277207723787974454196650071835769584762231832455893
+e = 3
+c = 199928678441516785442874823915652326973813168371198052837348340429140512331159192676977946213961036591363169714191827729475745587917927733953125
+```
+
+## Solution
+This is a small e vulnerability. Since there is no padding, the modulus has no effect on the encryption, so merely take the cube root of c to find m.
+
+## Flag 
+`flag{kots_short_too}`
